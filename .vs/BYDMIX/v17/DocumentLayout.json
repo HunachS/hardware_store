@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formdailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formdailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formcashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formdelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|d:\\visual studio\\bakalavrska_robota_bydmix_2023\\bydmix\\bydmix\\formadddeleteclientcs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formadddeleteclientcs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|d:\\visual studio\\bakalavrska_robota_bydmix_2023\\bydmix\\bydmix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formdailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formdailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formprofilelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formprofilelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\bydmix\\formprofilelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9581B39-6519-48F1-B793-0D1E1EA6B7C2}|BYDMIX\\BYDMIX.csproj|solutionrelative:bydmix\\formprofilelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddDeleteClientcs.Designer.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormAddDeleteClientcs.Designer.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormAddDeleteClientcs.Designer.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormAddDeleteClientcs.Designer.cs",
+              "RelativeToolTip": "BYDMIX\\FormAddDeleteClientcs.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:21:50.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\Form1.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\Form1.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\Form1.cs",
+              "RelativeToolTip": "BYDMIX\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-27T03:18:29.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\Form1.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\Form1.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\Form1.cs [Design]",
+              "RelativeToolTip": "BYDMIX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-06-27T03:17:59.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormDashboard.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "BYDMIX\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-27T03:17:50.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDelivery.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDelivery.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormDelivery.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDelivery.cs",
+              "RelativeToolTip": "BYDMIX\\FormDelivery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-27T03:10:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCashier.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormCashier.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormCashier.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormCashier.cs",
+              "RelativeToolTip": "BYDMIX\\FormCashier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-24T00:11:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCashier.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormCashier.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormCashier.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormCashier.cs [Design]",
+              "RelativeToolTip": "BYDMIX\\FormCashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-24T00:11:06.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDailySale.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDailySale.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormDailySale.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDailySale.cs",
+              "RelativeToolTip": "BYDMIX\\FormDailySale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:37:06.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDailySale.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDailySale.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormDailySale.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormDailySale.cs [Design]",
+              "RelativeToolTip": "BYDMIX\\FormDailySale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:37:02.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormLogin.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormLogin.cs",
+              "RelativeToolTip": "BYDMIX\\FormLogin.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:33:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormLogin.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormLogin.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormLogin.cs [Design]",
+              "RelativeToolTip": "BYDMIX\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:33:10.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProfileLogin.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormProfileLogin.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormProfileLogin.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormProfileLogin.cs",
+              "RelativeToolTip": "BYDMIX\\FormProfileLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:33:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormProfileLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormProfileLogin.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\FormProfileLogin.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\FormProfileLogin.cs [Design]",
+              "RelativeToolTip": "BYDMIX\\FormProfileLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:31:55.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\Program.cs",
+              "RelativeDocumentMoniker": "BYDMIX\\Program.cs",
+              "ToolTip": "D:\\Visual studio\\Bakalavrska_robota_BYDMIX_2023\\BYDMIX\\BYDMIX\\Program.cs",
+              "RelativeToolTip": "BYDMIX\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-23T12:31:30.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
